@@ -1,0 +1,1 @@
+﻿Start-Process powershell.exe -Credential “vuhl\will_lamm” -NoNewWindow -ArgumentList “Start-Process powershell_ISE.exe -Verb runAs”
