@@ -4,6 +4,7 @@
 # http://blogs.technet.com/b/grouppolicy/archive/2009/04/14/tool-images.aspx
 # http://blogs.technet.com/b/grouppolicy/archive/2009/04/17/find-settings-in-every-gpo.aspx
 #
+# derp
 # Powershell script that does the following:
 # SearchGPOsForSetting.ps1  [–IsComputerConfiguration] <boolean> [-Extension] <string>
 # [-Where] </string><string> [-Is] </string><string> [[-Return] </string><string>] [[-DomainName] </string><string>]
